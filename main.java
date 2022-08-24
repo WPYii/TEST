@@ -6,4 +6,8 @@ class Main {
     public static void fea(){
         System.out.println("E");
     }
+    
+        public static void fea2(){
+        System.out.println("E2");
+    }
 }
